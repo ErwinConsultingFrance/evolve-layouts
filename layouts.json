@@ -1,0 +1,5 @@
+[{
+    "name": "groupby",
+    "repository": "https://github.com/casewise/layout-groupby",
+    "evolve-versions" : ["3.1"]
+}]
