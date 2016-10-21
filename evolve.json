@@ -1,0 +1,6 @@
+{
+    "evolve-version": "3.1",
+    "dependencies": {
+        "groupby": "^0.0.1"
+    }
+}
