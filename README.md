@@ -1,7 +1,7 @@
-# evolve-layouts
-
-
-layouts.json contains all the available layouts
-
-
-evolve.json should be present on each evolve and will list the required pacakges for the local evolve installtion.
+#List of layouts
+##groupby: 
+Compatibility : Evolve 3.1
+##MatrixByObject: 
+description : Allow you to display association between object in a diagram
+wiki : https://github.com/nevakee716/cwLayoutMatrixByObject/wiki
+Compatibility : Evolve 3.1,4.0
