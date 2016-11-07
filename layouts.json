@@ -11,7 +11,8 @@
         "repository": "git+https://github.com/nevakee716/cwLayoutMatrixByObject.git",
         "evolve-versions": {
             "3.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/MatrixByObject/MatrixByObject-v1.1.0-evolve-v3.1.zip",
-            "4.0": "https://github.com/casewise/evolve-layouts/raw/master/dist/MatrixByObject/MatrixByObject-v1.2.0-evolve-v4.0.zip"
-        }
+            "4.0": "https://github.com/casewise/evolve-layouts/raw/master/dist/MatrixByObject/MatrixByObject-v1.2.1-evolve-v4.0.zip"
+        },
+        "description": "https://github.com/nevakee716/cwLayoutMatrixByObject/wiki"
     }
 }
