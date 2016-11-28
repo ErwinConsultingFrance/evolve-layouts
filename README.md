@@ -14,3 +14,8 @@
 - https://github.com/casewise/layout-groupby/wiki
 - Compatibility : Evolve 3.1,4.0
 
+##FilterByContextualAssociation: 
+- Allow you to filter items on a node depending on a Contextual association with the first parent
+- https://github.com/nevakee716/FilterByContextualAssociation/wiki
+- Compatibility : Evolve 4.0
+
