@@ -25,7 +25,7 @@
         "wiki": "https://github.com/casewise/layout-groupby/wiki",
         "evolve-versions": {
             "3.1-4.0": "https://github.com/casewise/evolve-layouts/raw/master/dist/GroupBy/GroupBy-v4.3.1-evolve-v3.1-4.0.zip",
-            "3.1 - 4.0": "https://github.com/casewise/evolve-layouts/raw/master/dist/GroupBy/GroupBy-v4.3.3-evolve-v3.1- 4.0.zip"
+            "3.1 - 4.0": "https://github.com/casewise/evolve-layouts/raw/master/dist/GroupBy/GroupBy-v4.3.5-evolve-v3.1-4.0.zip"
         }
     },
     "FilterByContextualAssociation": {
