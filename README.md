@@ -12,7 +12,7 @@
 ##GroupBy: 
 - Aims to group a list of item and then display them by property or by alphabet.
 - https://github.com/casewise/layout-groupby/wiki
-- Compatibility : Evolve 3.1-4.0,3.1 - 4.0
+- Compatibility : Evolve 3.1 - 4.0
 
 ##FilterByContextualAssociation: 
 - Allow you to filter items on a node depending on a Contextual association with the first parent
