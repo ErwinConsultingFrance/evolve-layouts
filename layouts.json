@@ -33,7 +33,7 @@
         "description": "Allow you to filter items on a node depending on a Contextual association with the first parent",
         "wiki": "https://github.com/nevakee716/FilterByContextualAssociation/wiki",
         "evolve-versions": {
-            "3.1-4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/FilterByContextualAssociation/FilterByContextualAssociation-v1.1.1-evolve-v3.1-4.1.zip"
+            "3.1 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/FilterByContextualAssociation/FilterByContextualAssociation-v1.1.1-evolve-v3.1-4.1.zip"
         }
     },
     "Network": {
