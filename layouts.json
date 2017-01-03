@@ -51,7 +51,7 @@
         "description": "Allow you to filter items on a node depending on a External association",
         "wiki": "https://github.com/nevakee716/FilterByExternalAssociation/wiki",
         "evolve-versions": {
-            "3.1 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/FilterByExternalAssociation/FilterByExternalAssociation-v1.2.1-evolve-v3.1-4.1.zip"
+            "3.1 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/FilterByExternalAssociation/FilterByExternalAssociation-v1.2.2-evolve-v3.1-4.1.zip"
         }
     }
 }
