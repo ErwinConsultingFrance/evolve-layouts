@@ -27,5 +27,5 @@
 ##FilterByExternalAssociation: 
 - Allow you to filter items on a node depending on a External association
 - https://github.com/nevakee716/FilterByExternalAssociation/wiki
-- Compatibility : Evolve 4-0 - 4.1
+- Compatibility : Evolve 4.0 - 4.1,4-0 - 4.1
 
