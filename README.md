@@ -29,3 +29,8 @@
 - https://github.com/nevakee716/FilterByExternalAssociation/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+##D3DependencyWheel: 
+- Allow you to display a D3DependencyWheel
+- https://github.com/nevakee716/D3DependencyWheel/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
