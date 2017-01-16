@@ -1,0 +1,6 @@
+{
+	"Name": "Matrix on 2 properties",
+	"DisplayName": "Risk landscape - (a Matrix based on 2 properties)",
+	"Description": "Matrix based on 2 properties's value",
+	"JavaScriptClassName": "LayoutMatrix"
+}
