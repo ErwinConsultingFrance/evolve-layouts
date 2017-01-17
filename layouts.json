@@ -61,5 +61,14 @@
         "evolve-versions": {
             "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/D3DependencyWheel/D3DependencyWheel-v2.1.0-evolve-v4.0-4.1.zip"
         }
+    },
+    "LayoutMatrixRiskLandscape": {
+        "name": "LayoutMatrixRiskLandscape",
+        "repository": "https://github.com/luting/LayoutMatrixRiskLandscape",
+        "description": "Risk landscape - (a Matrix based on 2 properties)",
+        "wiki": "https://github.com/luting/LayoutMatrixRiskLandscape/wiki",
+        "evolve-versions": {
+            "4.0": "https://github.com/casewise/evolve-layouts/raw/master/dist/LayoutMatrixRiskLandscape/LayoutMatrixRiskLandscape-v1.0.2-evolve-v4.0.zip"
+        }
     }
 }
