@@ -3,7 +3,7 @@
         "name": "MatrixByObject",
         "repository": "git+https://github.com/nevakee716/cwLayoutMatrixByObject.git",
         "evolve-versions": {
-            "3.1 - 4.0": "https://github.com/casewise/evolve-layouts/raw/master/dist/MatrixByObject/MatrixByObject-v3.2.1-evolve-v3.1-4.0.zip"
+            "3.1 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/MatrixByObject/MatrixByObject-v3.2.2-evolve-v3.1-4.1.zip"
         },
         "description": "Allow you to display association between object in a diagram",
         "wiki": "https://github.com/nevakee716/cwLayoutMatrixByObject/wiki"
