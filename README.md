@@ -39,3 +39,8 @@
 - https://github.com/luting/LayoutMatrixRiskLandscape/wiki
 - Compatibility : Evolve 4.0
 
+##TernaryFilter: 
+- Allow you to Create Ternary Association
+- https://github.com/nevakee716/TernaryFilter/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
