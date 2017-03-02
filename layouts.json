@@ -77,7 +77,7 @@
         "description": "Allow you to Create Ternary Association",
         "wiki": "https://github.com/nevakee716/TernaryFilter/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/TernaryFilter/TernaryFilter-v1.3.0-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/TernaryFilter/TernaryFilter-v1.3.1-evolve-v4.0-4.1.zip"
         }
     },
     "TernaryCreation": {
