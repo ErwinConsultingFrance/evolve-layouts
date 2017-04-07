@@ -49,3 +49,8 @@
 - https://github.com/nevakee716/TernaryCreation/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+## Tree: 
+- Allow you to display your data into a 2 way Tree. (You can only use One Way if you want) By right Clicking on nodes, you can display diagram PopOut or go to the objectPage(defaultview)
+- https://github.com/nevakee716/Tree/wiki
+- Compatibility : Evolve 4.1
+
