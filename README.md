@@ -22,7 +22,7 @@
 ## Network: 
 - Allow you to display association in a network
 - https://github.com/nevakee716/cwNetwork/wiki
-- Compatibility : Evolve 4.0
+- Compatibility : Evolve 4.0 - 4.1
 
 ## FilterByExternalAssociation: 
 - Allow you to filter items on a node depending on a External association
