@@ -97,5 +97,14 @@
         "evolve-versions": {
             "4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/Tree/Tree-v1.2.7-evolve-v4.1.zip"
         }
+    },
+    "JumpAndMerge": {
+        "name": "JumpAndMerge",
+        "repository": "git+https://github.com/nevakee716/JumpAndMerge.git",
+        "description": "Allow you Jump and Merge",
+        "wiki": "https://github.com/nevakee716/JumpAndMerge/wiki",
+        "evolve-versions": {
+            "3.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/JumpAndMerge/JumpAndMerge-v1.0.1-evolve-v3.0-4.1.zip"
+        }
     }
 }

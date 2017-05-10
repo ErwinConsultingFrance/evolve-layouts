@@ -54,3 +54,8 @@
 - https://github.com/nevakee716/Tree/wiki
 - Compatibility : Evolve 4.1
 
+## JumpAndMerge: 
+- Allow you Jump and Merge
+- https://github.com/nevakee716/JumpAndMerge/wiki
+- Compatibility : Evolve 3.0 - 4.1
+
