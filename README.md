@@ -59,3 +59,8 @@
 - https://github.com/nevakee716/JumpAndMerge/wiki
 - Compatibility : Evolve 3.0 - 4.1
 
+## HierarchyOnObjectPage: 
+- Allow you to display hierarchy on an objectPage
+- https://github.com/nevakee716/cwHierarchyOnObjectPage/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
