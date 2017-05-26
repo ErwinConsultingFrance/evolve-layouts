@@ -115,5 +115,14 @@
         "evolve-versions": {
             "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/HierarchyOnObjectPage/HierarchyOnObjectPage-v1.0.1-evolve-v4.0-4.1.zip"
         }
+    },
+    "Html5DiagramHighlight": {
+        "name": "Html5DiagramHighlight",
+        "repository": "git+https://github.com/nevakee716/cwHtml5DiagramHighlight.git",
+        "description": "Allow you to hightlight object on diagram depending on their category or association region",
+        "wiki": "https://github.com/nevakee716/cwHtml5DiagramHighlight/wiki",
+        "evolve-versions": {
+            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/Html5DiagramHighlight/Html5DiagramHighlight-v1.0.2-evolve-v4.0-4.1.zip"
+        }
     }
 }

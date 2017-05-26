@@ -64,3 +64,8 @@
 - https://github.com/nevakee716/cwHierarchyOnObjectPage/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+## Html5DiagramHighlight: 
+- Allow you to hightlight object on diagram depending on their category or association region
+- https://github.com/nevakee716/cwHtml5DiagramHighlight/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
