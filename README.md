@@ -69,3 +69,8 @@
 - https://github.com/nevakee716/cwHtml5DiagramHighlight/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+## cwChartCustomColor: 
+- Allow you to change chart color according to the view
+- https://github.com/nevakee716/cwChartCustomColor/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
