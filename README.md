@@ -74,3 +74,8 @@
 - https://github.com/nevakee716/cwChartCustomColor/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+## TableComplexeEnhance: 
+- Allow you switch order of column, number of object/pages, add a button unset all filters, add a title
+- https://github.com/nevakee716/TableComplexeEnhanced/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
