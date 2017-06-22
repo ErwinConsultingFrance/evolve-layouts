@@ -79,3 +79,8 @@
 - https://github.com/nevakee716/TableComplexeEnhanced/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+## DiagramObjectLinkOnEvolve: 
+- Allow you use object link with diagram on evolve
+- https://github.com/nevakee716/DiagramObjectLinkOnEvolve/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
