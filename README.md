@@ -81,6 +81,6 @@
 
 ## DiagramObjectLinkOnEvolve: 
 - Allow you use object link with diagram on evolve
-- https://github.com/nevakee716/DiagramObjectLinkOnEvolve/wiki
+- https://github.com/nevakee716/cwDiagramObjectLinkOnEvolve/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
