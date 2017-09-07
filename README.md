@@ -84,3 +84,8 @@
 - https://github.com/nevakee716/cwDiagramObjectLinkOnEvolve/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+## HideElementIf: 
+- Allow you to element(tab,propertygroup) on an objectPage according to property value
+- https://github.com/nevakee716/hideElementIf/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
