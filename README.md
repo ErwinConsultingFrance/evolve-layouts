@@ -89,3 +89,8 @@
 - https://github.com/nevakee716/hideElementIf/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+## cwLayoutD3TreeMap: 
+- Allow you to display data using the treemap view
+- https://github.com/JGrndn/cwLayoutD3TreeMap/wiki
+- Compatibility : Evolve 4.0 - 4.1
+

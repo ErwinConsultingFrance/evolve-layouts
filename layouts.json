@@ -160,5 +160,14 @@
         "evolve-versions": {
             "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.0.1-evolve-v4.0-4.1.zip"
         }
+    },
+    "cwLayoutD3TreeMap": {
+        "name": "cwLayoutD3TreeMap",
+        "repository": "https://github.com/JGrndn/cwLayoutD3TreeMap",
+        "description": "Allow you to display data using the treemap view",
+        "wiki": "https://github.com/JGrndn/cwLayoutD3TreeMap/wiki",
+        "evolve-versions": {
+            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/cwLayoutD3TreeMap/cwLayoutD3TreeMap-v2.0.3-evolve-v4.0-4.1.zip"
+        }
     }
 }
