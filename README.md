@@ -94,3 +94,8 @@
 - https://github.com/JGrndn/cwLayoutD3TreeMap/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+## Timeline: 
+- Allow you to display DateProperty of your objects (and their associated objects) in a Timeline
+- https://github.com/nevakee716/Timeline/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
