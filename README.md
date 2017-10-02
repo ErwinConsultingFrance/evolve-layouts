@@ -84,8 +84,18 @@
 - https://github.com/nevakee716/cwDiagramObjectLinkOnEvolve/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+## HideElementIf: 
+- Allow you to element(tab,propertygroup) on an objectPage according to property value
+- https://github.com/nevakee716/hideElementIf/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
 ## cwLayoutD3TreeMap: 
 - Allow you to display data using the treemap view
 - https://github.com/JGrndn/cwLayoutD3TreeMap/wiki
 - Compatibility : Evolve 4.0 - 4.1
+
+## Timeline: 
+- Allow you to display DateProperty of your objects (and their associated objects) in a Timeline
+- https://github.com/nevakee716/Timeline/wiki
+- Compatibility : Evolve 4.0 - 4.2
 

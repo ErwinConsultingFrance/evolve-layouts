@@ -3,7 +3,7 @@
         "name": "MatrixByObject",
         "repository": "git+https://github.com/nevakee716/cwLayoutMatrixByObject.git",
         "evolve-versions": {
-            "3.1 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/MatrixByObject/MatrixByObject-v3.2.2-evolve-v3.1-4.1.zip"
+            "3.1 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/MatrixByObject/MatrixByObject-v3.2.2-evolve-v3.1-4.1.zip"
         },
         "description": "Allow you to display association between object in a diagram",
         "wiki": "https://github.com/nevakee716/cwLayoutMatrixByObject/wiki"
@@ -14,7 +14,7 @@
         "description": "Allow you to reverse a hierarchical tree in order to re-order data",
         "wiki": "https://github.com/nevakee716/ReverseList/wiki",
         "evolve-versions": {
-            "4.0": "https://github.com/casewise/evolve-layouts/raw/master/dist/ReverseList/ReverseList-v1.0.1-evolve-v4.0.zip"
+            "4.0": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/ReverseList/ReverseList-v1.0.1-evolve-v4.0.zip"
         }
     },
     "GroupBy": {
@@ -23,7 +23,7 @@
         "description": "Aims to group a list of item and then display them by property or by alphabet.",
         "wiki": "https://github.com/casewise/layout-groupby/wiki",
         "evolve-versions": {
-            "3.1 - 4.0": "https://github.com/casewise/evolve-layouts/raw/master/dist/GroupBy/GroupBy-v4.4.2-evolve-v3.1-4.0.zip"
+            "3.1 - 4.0": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/GroupBy/GroupBy-v4.4.2-evolve-v3.1-4.0.zip"
         }
     },
     "FilterByContextualAssociation": {
@@ -32,7 +32,7 @@
         "description": "Allow you to filter items on a node depending on a Contextual association with the first parent",
         "wiki": "https://github.com/nevakee716/FilterByContextualAssociation/wiki",
         "evolve-versions": {
-            "3.1 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/FilterByContextualAssociation/FilterByContextualAssociation-v2.0.0-evolve-v3.1-4.1.zip"
+            "3.1 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/FilterByContextualAssociation/FilterByContextualAssociation-v2.0.0-evolve-v3.1-4.1.zip"
         }
     },
     "Network": {
@@ -41,7 +41,7 @@
         "description": "Allow you to display association in a network",
         "wiki": "https://github.com/nevakee716/cwNetwork/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/Network/Network-v3.1.2-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v3.1.2-evolve-v4.0-4.1.zip"
         }
     },
     "FilterByExternalAssociation": {
@@ -50,7 +50,7 @@
         "description": "Allow you to filter items on a node depending on a External association",
         "wiki": "https://github.com/nevakee716/FilterByExternalAssociation/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/FilterByExternalAssociation/FilterByExternalAssociation-v1.10.0-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/FilterByExternalAssociation/FilterByExternalAssociation-v1.10.0-evolve-v4.0-4.1.zip"
         }
     },
     "D3DependencyWheel": {
@@ -59,7 +59,7 @@
         "description": "Allow you to display a D3DependencyWheel",
         "wiki": "https://github.com/nevakee716/D3DependencyWheel/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/D3DependencyWheel/D3DependencyWheel-v2.1.1-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/D3DependencyWheel/D3DependencyWheel-v2.1.1-evolve-v4.0-4.1.zip"
         }
     },
     "LayoutMatrixRiskLandscape": {
@@ -68,7 +68,7 @@
         "description": "Risk landscape - (a Matrix based on 2 properties)",
         "wiki": "https://github.com/luting/LayoutMatrixRiskLandscape/wiki",
         "evolve-versions": {
-            "4.0": "https://github.com/casewise/evolve-layouts/raw/master/dist/LayoutMatrixRiskLandscape/LayoutMatrixRiskLandscape-v1.0.2-evolve-v4.0.zip"
+            "4.0": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/LayoutMatrixRiskLandscape/LayoutMatrixRiskLandscape-v1.0.2-evolve-v4.0.zip"
         }
     },
     "TernaryFilter": {
@@ -77,7 +77,7 @@
         "description": "Allow you to Create Ternary Association",
         "wiki": "https://github.com/nevakee716/TernaryFilter/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/TernaryFilter/TernaryFilter-v1.3.2-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/TernaryFilter/TernaryFilter-v1.3.2-evolve-v4.0-4.1.zip"
         }
     },
     "TernaryCreation": {
@@ -86,7 +86,7 @@
         "description": "Allow you to Create Ternary Association",
         "wiki": "https://github.com/nevakee716/TernaryCreation/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/TernaryCreation/TernaryCreation-v1.2.2-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/TernaryCreation/TernaryCreation-v1.2.2-evolve-v4.0-4.1.zip"
         }
     },
     "Tree": {
@@ -95,7 +95,7 @@
         "description": "Allow you to display your data into a 2 way Tree. (You can only use One Way if you want) By right Clicking on nodes, you can display diagram PopOut or go to the objectPage(defaultview)",
         "wiki": "https://github.com/nevakee716/Tree/wiki",
         "evolve-versions": {
-            "4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/Tree/Tree-v1.2.7-evolve-v4.1.zip"
+            "4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Tree/Tree-v1.2.7-evolve-v4.1.zip"
         }
     },
     "JumpAndMerge": {
@@ -104,7 +104,7 @@
         "description": "Allow you Jump and Merge",
         "wiki": "https://github.com/nevakee716/JumpAndMerge/wiki",
         "evolve-versions": {
-            "3.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/JumpAndMerge/JumpAndMerge-v1.0.1-evolve-v3.0-4.1.zip"
+            "3.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/JumpAndMerge/JumpAndMerge-v1.0.1-evolve-v3.0-4.1.zip"
         }
     },
     "HierarchyOnObjectPage": {
@@ -113,7 +113,7 @@
         "description": "Allow you to display hierarchy on an objectPage",
         "wiki": "https://github.com/nevakee716/cwHierarchyOnObjectPage/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/HierarchyOnObjectPage/HierarchyOnObjectPage-v2.0.3-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HierarchyOnObjectPage/HierarchyOnObjectPage-v2.0.3-evolve-v4.0-4.1.zip"
         }
     },
     "Html5DiagramHighlight": {
@@ -122,7 +122,7 @@
         "description": "Allow you to hightlight object on diagram depending on their category or association region",
         "wiki": "https://github.com/nevakee716/cwHtml5DiagramHighlight/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/Html5DiagramHighlight/Html5DiagramHighlight-v1.3.3-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Html5DiagramHighlight/Html5DiagramHighlight-v1.3.5-evolve-v4.0-4.1.zip"
         }
     },
     "cwChartCustomColor": {
@@ -131,7 +131,7 @@
         "description": "Allow you to change chart color according to the view",
         "wiki": "https://github.com/nevakee716/cwChartCustomColor/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/cwChartCustomColor/cwChartCustomColor-v1.0.1-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwChartCustomColor/cwChartCustomColor-v1.0.1-evolve-v4.0-4.1.zip"
         }
     },
     "TableComplexeEnhance": {
@@ -140,7 +140,7 @@
         "description": "Allow you switch order of column, number of object/pages, add a button unset all filters, add a title",
         "wiki": "https://github.com/nevakee716/TableComplexeEnhanced/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/TableComplexeEnhance/TableComplexeEnhance-v1.0.2-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/TableComplexeEnhance/TableComplexeEnhance-v1.0.2-evolve-v4.0-4.1.zip"
         }
     },
     "DiagramObjectLinkOnEvolve": {
@@ -149,7 +149,16 @@
         "description": "Allow you use object link with diagram on evolve",
         "wiki": "https://github.com/nevakee716/cwDiagramObjectLinkOnEvolve/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/casewise/evolve-layouts/raw/master/dist/DiagramObjectLinkOnEvolve/DiagramObjectLinkOnEvolve-v1.0.1-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/DiagramObjectLinkOnEvolve/DiagramObjectLinkOnEvolve-v1.0.1-evolve-v4.0-4.1.zip"
+        }
+    },
+    "HideElementIf": {
+        "name": "HideElementIf",
+        "repository": "git+https://github.com/nevakee716/hideElementIf.git",
+        "description": "Allow you to element(tab,propertygroup) on an objectPage according to property value",
+        "wiki": "https://github.com/nevakee716/hideElementIf/wiki",
+        "evolve-versions": {
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.1.0-evolve-v4.0-4.1.zip"
         }
     },
     "cwLayoutD3TreeMap": {
@@ -158,7 +167,16 @@
         "description": "Allow you to display data using the treemap view",
         "wiki": "https://github.com/JGrndn/cwLayoutD3TreeMap/wiki",
         "evolve-versions": {
-            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutD3TreeMap/cwLayoutD3TreeMap-v2.1.0-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutD3TreeMap/cwLayoutD3TreeMap-v2.0.3-evolve-v4.0-4.1.zip"
+        }
+    },
+    "Timeline": {
+        "name": "Timeline",
+        "repository": "git+https://github.com/nevakee716/Timeline.git",
+        "description": "Allow you to display DateProperty of your objects (and their associated objects) in a Timeline",
+        "wiki": "https://github.com/nevakee716/Timeline/wiki",
+        "evolve-versions": {
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Timeline/Timeline-v1.0.1-evolve-v4.0-4.2.zip"
         }
     }
 }
