@@ -99,3 +99,8 @@
 - https://github.com/nevakee716/Timeline/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
+## cwLayoutMap: 
+- Allow you to display data using the treemap view
+- https://github.com/JGrndn/cwLayoutMap/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
