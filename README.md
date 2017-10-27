@@ -104,3 +104,8 @@
 - https://github.com/JGrndn/cwLayoutMap/wiki
 - Compatibility : Evolve 4.0 - 4.1
 
+## ContextObjectTable: 
+- Allow you to do complicate stuff
+- https://github.com/nevakee716/ContextObjectTable/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
