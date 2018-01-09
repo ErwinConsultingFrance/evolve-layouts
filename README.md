@@ -102,7 +102,7 @@
 ## cwLayoutMap: 
 - Allow you to display data using the treemap view
 - https://github.com/JGrndn/cwLayoutMap/wiki
-- Compatibility : Evolve 4.0 - 4.1
+- Compatibility : Evolve 4.0 - 4.2
 
 ## ContextObjectTable: 
 - Allow you to do complicate stuff
