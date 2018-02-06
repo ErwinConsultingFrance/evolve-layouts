@@ -118,3 +118,9 @@
 - Allow you to Graph2D
 - https://github.com/nevakee716/Graph2D/wiki
 - Compatibility : Evolve 4.1 - 4.2
+
+## cwLayoutConfigEditor: 
+- Allow you to create configurations for operation using a UI
+- https://github.com/JGrndn/cwLayoutConfigEditor/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
