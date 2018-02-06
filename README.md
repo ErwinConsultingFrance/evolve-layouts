@@ -124,3 +124,8 @@
 - https://github.com/JGrndn/cwLayoutConfigEditor/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
+## cwLayoutExecuteOperation: 
+- Allow you to display list of operation configuration with a button to execute them
+- https://github.com/JGrndn/cwLayoutExecuteOperation/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
