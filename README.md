@@ -109,3 +109,8 @@
 - https://github.com/nevakee716/ContextObjectTable/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
+## cwLayoutAngularCustom: 
+- Allow you to create your own layout using AngularJS template
+- https://github.com/JGrndn/cwLayoutAngularCustom/wiki
+- Compatibility : Evolve 4.0 - 4.2
+

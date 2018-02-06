@@ -197,5 +197,14 @@
         "evolve-versions": {
             "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/ContextObjectTable/ContextObjectTable-v0.1.15-evolve-v4.0-4.2.zip"
         }
+    },
+    "cwLayoutAngularCustom": {
+        "name": "cwLayoutAngularCustom",
+        "repository": "https://github.com/JGrndn/cwLayoutAngularCustom",
+        "description": "Allow you to create your own layout using AngularJS template",
+        "wiki": "https://github.com/JGrndn/cwLayoutAngularCustom/wiki",
+        "evolve-versions": {
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutAngularCustom/cwLayoutAngularCustom-v1.0.1-evolve-v4.0-4.2.zip"
+        }
     }
 }
