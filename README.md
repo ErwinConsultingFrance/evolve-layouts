@@ -129,3 +129,8 @@
 - https://github.com/JGrndn/cwLayoutExecuteOperation/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
+## cwAmMap: 
+- Allow you to display maps
+- https://github.com/JGrndn/cwAmMap/wiki
+- Compatibility : Evolve 4.0 - 4.1
+
