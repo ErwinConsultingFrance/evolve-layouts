@@ -62,7 +62,7 @@
 ## HierarchyOnObjectPage: 
 - Allow you to display hierarchy on an objectPage
 - https://github.com/nevakee716/cwHierarchyOnObjectPage/wiki
-- Compatibility : Evolve 4.0 - 4.1
+- Compatibility : Evolve 4.0 - 4.2
 
 ## Html5DiagramHighlight: 
 - Allow you to hightlight object on diagram depending on their category or association region
