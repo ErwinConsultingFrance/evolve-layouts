@@ -242,5 +242,14 @@
         "evolve-versions": {
             "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwAmMap/cwAmMap-v2.0.2-evolve-v4.0-4.1.zip"
         }
+    },
+    "Erwin_Theme": {
+        "name": "Erwin_Theme",
+        "repository": "https://github.com/JGrndn/erwin_theme",
+        "description": "Use the Erwin colors",
+        "wiki": "https://github.com/JGrndn/erwin_theme/wiki",
+        "evolve-versions": {
+            "4.2 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Erwin_Theme/Erwin_Theme-v1.0.0-evolve-v4.2-4.2.zip"
+        }
     }
 }
