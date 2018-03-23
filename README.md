@@ -137,5 +137,5 @@
 ## Erwin_Theme: 
 - Use the Erwin colors
 - https://github.com/JGrndn/erwin_theme/wiki
-- Compatibility : Evolve 4.2 - 4.2
+- Compatibility : Evolve 4.2 - 4.2,4.2
 
