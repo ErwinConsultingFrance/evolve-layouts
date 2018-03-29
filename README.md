@@ -77,7 +77,7 @@
 ## TableComplexeEnhance: 
 - Allow you switch order of column, number of object/pages, add a button unset all filters, add a title
 - https://github.com/nevakee716/TableComplexeEnhanced/wiki
-- Compatibility : Evolve 4.0 - 4.1
+- Compatibility : Evolve 4.0 - 4.2
 
 ## DiagramObjectLinkOnEvolve: 
 - Allow you use object link with diagram on evolve
