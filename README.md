@@ -72,7 +72,7 @@
 ## cwChartCustomColor: 
 - Allow you to change chart color according to the view
 - https://github.com/nevakee716/cwChartCustomColor/wiki
-- Compatibility : Evolve 4.0 - 4.1
+- Compatibility : Evolve 4.0 - 4.2
 
 ## TableComplexeEnhance: 
 - Allow you switch order of column, number of object/pages, add a button unset all filters, add a title
