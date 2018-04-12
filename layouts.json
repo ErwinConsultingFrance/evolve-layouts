@@ -123,7 +123,7 @@
         "description": "Allow you to hightlight object on diagram depending on their category or association region",
         "wiki": "https://github.com/nevakee716/cwHtml5DiagramHighlight/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Html5DiagramHighlight/Html5DiagramHighlight-v1.4.0-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Html5DiagramHighlight/Html5DiagramHighlight-v1.4.1-evolve-v4.0-4.2.zip"
         }
     },
     "cwChartCustomColor": {
