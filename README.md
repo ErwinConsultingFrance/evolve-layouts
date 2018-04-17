@@ -139,3 +139,8 @@
 - https://github.com/JGrndn/erwin_theme/wiki
 - Compatibility : Evolve 4.2
 
+## customDisplayStringEnhanced: 
+- Allow you make a more complex beautiful custom display string (popout, split link...)
+- https://github.com/nevakee716/customDisplayStringEnhanced/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
