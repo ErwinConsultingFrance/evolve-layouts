@@ -144,3 +144,8 @@
 - https://github.com/nevakee716/customDisplayStringEnhanced/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
+## ImagePropertyTable: 
+- Replacing a property's value with an image
+- https://github.com/someone/layout/wiki
+- Compatibility : Evolve 4.1 - 4.2
+

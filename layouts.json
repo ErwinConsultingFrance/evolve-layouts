@@ -260,5 +260,14 @@
         "evolve-versions": {
             "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/customDisplayStringEnhanced/customDisplayStringEnhanced-v1.0.3-evolve-v4.0-4.2.zip"
         }
+    },
+    "ImagePropertyTable": {
+        "name": "ImagePropertyTable",
+        "repository": "git+https://github.com/someone/layout.git",
+        "description": "Replacing a property's value with an image",
+        "wiki": "https://github.com/someone/layout/wiki",
+        "evolve-versions": {
+            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/ImagePropertyTable/ImagePropertyTable-v1.0.0-evolve-v4.1-4.2.zip"
+        }
     }
 }
