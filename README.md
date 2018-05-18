@@ -146,6 +146,6 @@
 
 ## ImagePropertyTable: 
 - Replacing a property's value with an image
-- https://github.com/someone/layout/wiki
+- https://github.com/CatherineMys/Image-property-Table/wiki
 - Compatibility : Evolve 4.1 - 4.2
 

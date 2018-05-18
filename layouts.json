@@ -265,9 +265,9 @@
         "name": "ImagePropertyTable",
         "repository": "git+https://github.com/someone/layout.git",
         "description": "Replacing a property's value with an image",
-        "wiki": "https://github.com/someone/layout/wiki",
+        "wiki": "https://github.com/CatherineMys/Image-property-Table/wiki",
         "evolve-versions": {
-            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/ImagePropertyTable/ImagePropertyTable-v1.0.0-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/ImagePropertyTable/ImagePropertyTable-v1.0.1-evolve-v4.1-4.2.zip"
         }
     }
 }
