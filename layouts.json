@@ -278,5 +278,14 @@
         "evolve-versions": {
             "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwExpandablePopout/cwExpandablePopout-v1.0.0-evolve-v4.0-4.2.zip"
         }
+    },
+    "cwPopout": {
+        "name": "cwPopout",
+        "repository": "https://github.com/JGrndn/cwPopout",
+        "description": "Allow you to expand the popout",
+        "wiki": "https://github.com/JGrndn/cwPopout/wiki",
+        "evolve-versions": {
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.0.1-evolve-v4.0-4.2.zip"
+        }
     }
 }

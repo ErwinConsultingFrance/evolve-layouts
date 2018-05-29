@@ -154,3 +154,8 @@
 - https://github.com/JGrndn/cwExpandablePopout/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
+## cwPopout: 
+- Allow you to expand the popout
+- https://github.com/JGrndn/cwPopout/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
