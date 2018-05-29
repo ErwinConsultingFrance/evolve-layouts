@@ -270,15 +270,6 @@
             "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/ImagePropertyTable/ImagePropertyTable-v1.0.1-evolve-v4.1-4.2.zip"
         }
     },
-    "cwExpandablePopout": {
-        "name": "cwExpandablePopout",
-        "repository": "https://github.com/JGrndn/cwExpandablePopout",
-        "description": "Allow you to expand the popout",
-        "wiki": "https://github.com/JGrndn/cwExpandablePopout/wiki",
-        "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwExpandablePopout/cwExpandablePopout-v1.0.0-evolve-v4.0-4.2.zip"
-        }
-    },
     "cwPopout": {
         "name": "cwPopout",
         "repository": "https://github.com/JGrndn/cwPopout",
