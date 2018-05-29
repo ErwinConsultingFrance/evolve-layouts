@@ -149,13 +149,13 @@
 - https://github.com/CatherineMys/Image-property-Table/wiki
 - Compatibility : Evolve 4.1 - 4.2
 
-## cwExpandablePopout: 
-- Allow you to expand the popout
-- https://github.com/JGrndn/cwExpandablePopout/wiki
-- Compatibility : Evolve 4.0 - 4.2
-
 ## cwPopout: 
 - Allow you to expand the popout
 - https://github.com/JGrndn/cwPopout/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
+## cwLayoutCollapsibleListBox: 
+- Allow you to expand/collable a list box
+- https://github.com/JGrndn/cwLayoutCollapsibleListBox/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
