@@ -149,3 +149,8 @@
 - https://github.com/CatherineMys/Image-property-Table/wiki
 - Compatibility : Evolve 4.1 - 4.2
 
+## cwExpandablePopout: 
+- Allow you to expand the popout
+- https://github.com/JGrndn/cwExpandablePopout/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
