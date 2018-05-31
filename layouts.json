@@ -222,7 +222,7 @@
         "description": "Allow you to create configurations for operation using a UI",
         "wiki": "https://github.com/JGrndn/cwLayoutConfigEditor/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutConfigEditor/cwLayoutConfigEditor-v1.5.9-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutConfigEditor/cwLayoutConfigEditor-v1.6.0-evolve-v4.0-4.2.zip"
         }
     },
     "cwLayoutExecuteOperation": {
@@ -259,6 +259,33 @@
         "wiki": "https://github.com/nevakee716/customDisplayStringEnhanced/wiki",
         "evolve-versions": {
             "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/customDisplayStringEnhanced/customDisplayStringEnhanced-v1.0.3-evolve-v4.0-4.2.zip"
+        }
+    },
+    "ImagePropertyTable": {
+        "name": "ImagePropertyTable",
+        "repository": "git+https://github.com/someone/layout.git",
+        "description": "Replacing a property's value with an image",
+        "wiki": "https://github.com/CatherineMys/Image-property-Table/wiki",
+        "evolve-versions": {
+            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/ImagePropertyTable/ImagePropertyTable-v1.0.1-evolve-v4.1-4.2.zip"
+        }
+    },
+    "cwPopout": {
+        "name": "cwPopout",
+        "repository": "https://github.com/JGrndn/cwPopout",
+        "description": "Allow you to expand the popout",
+        "wiki": "https://github.com/JGrndn/cwPopout/wiki",
+        "evolve-versions": {
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.0.1-evolve-v4.0-4.2.zip"
+        }
+    },
+    "cwLayoutCollapsibleListBox": {
+        "name": "cwLayoutCollapsibleListBox",
+        "repository": "https://github.com/JGrndn/cwLayoutCollapsibleListBox",
+        "description": "Allow you to expand/collable a list box",
+        "wiki": "https://github.com/JGrndn/cwLayoutCollapsibleListBox/wiki",
+        "evolve-versions": {
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutCollapsibleListBox/cwLayoutCollapsibleListBox-v1.0.0-evolve-v4.0-4.2.zip"
         }
     }
 }
