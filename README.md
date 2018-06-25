@@ -159,3 +159,8 @@
 - https://github.com/JGrndn/cwLayoutCollapsibleListBox/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
+## RedirectEdit: 
+- This plug-in allows you to redirect users to different pages when they enter edit mode
+- https://github.com/JGrndn/RedirectEdit/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
