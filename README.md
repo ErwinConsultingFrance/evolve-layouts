@@ -164,3 +164,8 @@
 - https://github.com/JGrndn/RedirectEdit/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
+## AccessRightManager: 
+- Allow you to manage the access right at the property level
+- https://github.com/JGrndn/AccessRightManager/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
