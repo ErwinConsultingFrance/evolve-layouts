@@ -17,7 +17,7 @@
 ## FilterByContextualAssociation: 
 - Allow you to filter items on a node depending on a Contextual association with the first parent
 - https://github.com/nevakee716/FilterByContextualAssociation/wiki
-- Compatibility : Evolve 3.1 - 4.2
+- Compatibility : Evolve 3.1 - 4.2,3.1 - 4.1
 
 ## Network: 
 - Allow you to display association in a network
@@ -27,12 +27,12 @@
 ## FilterByExternalAssociation: 
 - Allow you to filter items on a node depending on a External association
 - https://github.com/nevakee716/FilterByExternalAssociation/wiki
-- Compatibility : Evolve 4.0 - 4.2
+- Compatibility : Evolve 4.0 - 4.2,4.0 - 4.1
 
 ## D3DependencyWheel: 
 - Allow you to display a D3DependencyWheel
 - https://github.com/nevakee716/D3DependencyWheel/wiki
-- Compatibility : Evolve 4.0 - 4.2
+- Compatibility : Evolve 4.0 - 4.2,4.0 - 4.1
 
 ## LayoutMatrixRiskLandscape: 
 - Risk landscape - (a Matrix based on 2 properties)
@@ -57,7 +57,7 @@
 ## JumpAndMerge: 
 - Allow you Jump and Merge
 - https://github.com/nevakee716/JumpAndMerge/wiki
-- Compatibility : Evolve 3.0 - 4.2
+- Compatibility : Evolve 3.0 - 4.2,3.0 - 4.1
 
 ## HierarchyOnObjectPage: 
 - Allow you to display hierarchy on an objectPage
@@ -82,12 +82,12 @@
 ## DiagramObjectLinkOnEvolve: 
 - Allow you use object link with diagram on evolve
 - https://github.com/nevakee716/cwDiagramObjectLinkOnEvolve/wiki
-- Compatibility : Evolve 4.0 - 4.2
+- Compatibility : Evolve 4.0 - 4.2,4.0 - 4.1
 
 ## HideElementIf: 
 - Allow you to element(tab,propertygroup) on an objectPage according to property value
 - https://github.com/nevakee716/hideElementIf/wiki
-- Compatibility : Evolve 4.0 - 4.2
+- Compatibility : Evolve 4.0 - 4.2,4.0 - 4.1
 
 ## cwLayoutD3TreeMap: 
 - Allow you to display data using the treemap view
