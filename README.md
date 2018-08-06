@@ -152,7 +152,7 @@
 ## cwPopout: 
 - Allow you to expand the popout
 - https://github.com/JGrndn/cwPopout/wiki
-- Compatibility : Evolve 4.0 - 4.2
+- Compatibility : Evolve 4.0 - 4.2,4.2
 
 ## cwLayoutCollapsibleListBox: 
 - Allow you to expand/collable a list box
@@ -167,5 +167,10 @@
 ## AccessRightManager: 
 - Allow you to manage the access right at the property level
 - https://github.com/JGrndn/AccessRightManager/wiki
-- Compatibility : Evolve 4.0 - 4.2
+- Compatibility : Evolve 4.0 - 4.2,4.2
+
+## cwLayoutCustomQuery: 
+- Allow users to create their own filter and to display data using charts
+- https://github.com/JGrndn/cwLayoutCustomQuery/wiki
+- Compatibility : Evolve 4.2
 
