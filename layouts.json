@@ -24,7 +24,7 @@
         "description": "Aims to group a list of item and then display them by property or by alphabet.",
         "wiki": "https://github.com/casewise/layout-groupby/wiki",
         "evolve-versions": {
-            "3.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/GroupBy/GroupBy-v4.4.2-evolve-v3.1-4.0.zip"
+            "3.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/GroupBy/GroupBy-v4.4.3-evolve-v3.1-4.2.zip"
         }
     },
     "FilterByContextualAssociation": {
@@ -33,7 +33,8 @@
         "description": "Allow you to filter items on a node depending on a Contextual association with the first parent",
         "wiki": "https://github.com/nevakee716/FilterByContextualAssociation/wiki",
         "evolve-versions": {
-            "3.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/FilterByContextualAssociation/FilterByContextualAssociation-v2.1.2-evolve-v3.1-4.1.zip"
+            "3.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/FilterByContextualAssociation/FilterByContextualAssociation-v2.1.2-evolve-v3.1-4.1.zip",
+            "3.1 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/FilterByContextualAssociation/FilterByContextualAssociation-v2.1.3-evolve-v3.1-4.1.zip"
         }
     },
     "Network": {
@@ -52,7 +53,8 @@
         "description": "Allow you to filter items on a node depending on a External association",
         "wiki": "https://github.com/nevakee716/FilterByExternalAssociation/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/FilterByExternalAssociation/FilterByExternalAssociation-v1.10.0-evolve-v4.0-4.1.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/FilterByExternalAssociation/FilterByExternalAssociation-v1.10.0-evolve-v4.0-4.1.zip",
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/FilterByExternalAssociation/FilterByExternalAssociation-v1.10.1-evolve-v4.0-4.1.zip"
         }
     },
     "D3DependencyWheel": {
@@ -61,7 +63,8 @@
         "description": "Allow you to display a D3DependencyWheel",
         "wiki": "https://github.com/nevakee716/D3DependencyWheel/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/D3DependencyWheel/D3DependencyWheel-v2.1.1-evolve-v4.0-4.1.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/D3DependencyWheel/D3DependencyWheel-v2.1.1-evolve-v4.0-4.1.zip",
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/D3DependencyWheel/D3DependencyWheel-v2.1.2-evolve-v4.0-4.1.zip"
         }
     },
     "LayoutMatrixRiskLandscape": {
@@ -106,7 +109,8 @@
         "description": "Allow you Jump and Merge",
         "wiki": "https://github.com/nevakee716/JumpAndMerge/wiki",
         "evolve-versions": {
-            "3.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/JumpAndMerge/JumpAndMerge-v1.1.0-evolve-v3.0-4.1.zip"
+            "3.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/JumpAndMerge/JumpAndMerge-v1.1.0-evolve-v3.0-4.1.zip",
+            "3.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/JumpAndMerge/JumpAndMerge-v1.1.1-evolve-v3.0-4.1.zip"
         }
     },
     "HierarchyOnObjectPage": {
@@ -133,7 +137,7 @@
         "description": "Allow you to change chart color according to the view",
         "wiki": "https://github.com/nevakee716/cwChartCustomColor/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwChartCustomColor/cwChartCustomColor-v1.0.2-evolve-v4.0-4.1.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwChartCustomColor/cwChartCustomColor-v1.1.1-evolve-v4.0-4.2.zip"
         }
     },
     "TableComplexeEnhance": {
@@ -142,7 +146,7 @@
         "description": "Allow you switch order of column, number of object/pages, add a button unset all filters, add a title",
         "wiki": "https://github.com/nevakee716/TableComplexeEnhanced/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/TableComplexeEnhance/TableComplexeEnhance-v1.2.1-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/TableComplexeEnhance/TableComplexeEnhance-v1.3.0-evolve-v4.0-4.2.zip"
         }
     },
     "DiagramObjectLinkOnEvolve": {
@@ -151,7 +155,8 @@
         "description": "Allow you use object link with diagram on evolve",
         "wiki": "https://github.com/nevakee716/cwDiagramObjectLinkOnEvolve/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/DiagramObjectLinkOnEvolve/DiagramObjectLinkOnEvolve-v1.2.0-evolve-v4.0-4.1.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/DiagramObjectLinkOnEvolve/DiagramObjectLinkOnEvolve-v1.2.0-evolve-v4.0-4.1.zip",
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/DiagramObjectLinkOnEvolve/DiagramObjectLinkOnEvolve-v1.2.1-evolve-v4.0-4.1.zip"
         }
     },
     "HideElementIf": {
@@ -160,7 +165,8 @@
         "description": "Allow you to element(tab,propertygroup) on an objectPage according to property value",
         "wiki": "https://github.com/nevakee716/hideElementIf/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.4.0-evolve-v4.0-4.1.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.4.0-evolve-v4.0-4.1.zip",
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.4.1-evolve-v4.0-4.1.zip"
         }
     },
     "cwLayoutD3TreeMap": {
@@ -214,7 +220,7 @@
         "description": "Allow you to Graph2D",
         "wiki": "https://github.com/nevakee716/Graph2D/wiki",
         "evolve-versions": {
-            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Graph2D/Graph2D-v1.0.3-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Graph2D/Graph2D-v1.2.0-evolve-v4.1-4.2.zip"
         }
     },
     "cwLayoutConfigEditor": {
@@ -223,7 +229,7 @@
         "description": "Allow you to create configurations for operation using a UI",
         "wiki": "https://github.com/JGrndn/cwLayoutConfigEditor/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutConfigEditor/cwLayoutConfigEditor-v1.7.1-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutConfigEditor/cwLayoutConfigEditor-v1.8.0-evolve-v4.0-4.2.zip"
         }
     },
     "cwLayoutExecuteOperation": {
@@ -277,7 +283,6 @@
         "description": "Allow you to expand the popout",
         "wiki": "https://github.com/JGrndn/cwPopout/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.2.0-evolve-v4.0-4.2.zip",
             "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.2.1-evolve-v4.2.zip"
         }
     },
@@ -296,7 +301,7 @@
         "description": "This plug-in allows you to redirect users to different pages when they enter edit mode",
         "wiki": "https://github.com/JGrndn/RedirectEdit/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/RedirectEdit/RedirectEdit-v1.0.2-evolve-v4.0-4.2.zip"
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/RedirectEdit/RedirectEdit-v1.0.2-evolve-v4.0-4.2.zip"
         }
     },
     "AccessRightManager": {
@@ -305,7 +310,6 @@
         "description": "Allow you to manage the access right at the property level",
         "wiki": "https://github.com/JGrndn/AccessRightManager/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/AccessRightManager/AccessRightManager-v1.0.0-evolve-v4.0-4.2.zip",
             "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/AccessRightManager/AccessRightManager-v1.0.1-evolve-v4.2.zip"
         }
     },
