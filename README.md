@@ -152,7 +152,6 @@
 ## cwPopout: 
 - Allow you to expand the popout
 - https://github.com/JGrndn/cwPopout/wiki
-<<<<<<< HEAD
 - Compatibility : Evolve 4.2
 
 ## cwLayoutCollapsibleListBox: 
@@ -163,7 +162,7 @@
 ## RedirectEdit: 
 - This plug-in allows you to redirect users to different pages when they enter edit mode
 - https://github.com/JGrndn/RedirectEdit/wiki
-- Compatibility : Evolve 4.2 - 4.2
+- Compatibility : Evolve 4.2
 
 ## AccessRightManager: 
 - Allow you to manage the access right at the property level
