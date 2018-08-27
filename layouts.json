@@ -321,5 +321,14 @@
         "evolve-versions": {
             "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutCustomQuery/cwLayoutCustomQuery-v1.1.0-evolve-v4.2.zip"
         }
+    },
+    "Gantt": {
+        "name": "Gantt",
+        "repository": "git+https://github.com/nevakee716/cwGantt.git",
+        "description": "Allow you to display objet in a Gantt",
+        "wiki": "https://github.com/nevakee716/cwGantt/wiki",
+        "evolve-versions": {
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Gantt/Gantt-v1.0.0-evolve-v4.2.zip"
+        }
     }
 }

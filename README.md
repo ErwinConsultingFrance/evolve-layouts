@@ -174,3 +174,8 @@
 - https://github.com/JGrndn/cwLayoutCustomQuery/wiki
 - Compatibility : Evolve 4.2
 
+## Gantt: 
+- Allow you to display objet in a Gantt
+- https://github.com/nevakee716/cwGantt/wiki
+- Compatibility : Evolve 4.2
+
