@@ -166,7 +166,7 @@
         "wiki": "https://github.com/nevakee716/hideElementIf/wiki",
         "evolve-versions": {
             "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.4.0-evolve-v4.0-4.1.zip",
-            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.4.1-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.4.2-evolve-v4.0-4.1.zip"
         }
     },
     "cwLayoutD3TreeMap": {
@@ -301,7 +301,8 @@
         "description": "This plug-in allows you to redirect users to different pages when they enter edit mode",
         "wiki": "https://github.com/JGrndn/RedirectEdit/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/RedirectEdit/RedirectEdit-v1.0.2-evolve-v4.0-4.2.zip"
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/RedirectEdit/RedirectEdit-v1.0.2-evolve-v4.0-4.2.zip",
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/RedirectEdit/RedirectEdit-v1.0.3-evolve-v4.0-4.2.zip"
         }
     },
     "AccessRightManager": {
