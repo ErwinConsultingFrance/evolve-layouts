@@ -329,7 +329,7 @@
         "description": "Allow you to display objet in a Gantt",
         "wiki": "https://github.com/nevakee716/cwGantt/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Gantt/Gantt-v1.0.2-evolve-v4.2.zip"
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Gantt/Gantt-v1.0.3-evolve-v4.2.zip"
         }
     }
 }
