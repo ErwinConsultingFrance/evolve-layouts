@@ -179,3 +179,8 @@
 - https://github.com/nevakee716/cwGantt/wiki
 - Compatibility : Evolve 4.2
 
+## PivotTable: 
+- Allow you to display objet in a Pivot Table
+- https://github.com/nevakee716/cwPivotTable/wiki
+- Compatibility : Evolve 4.2
+

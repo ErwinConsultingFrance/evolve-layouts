@@ -166,7 +166,7 @@
         "wiki": "https://github.com/nevakee716/hideElementIf/wiki",
         "evolve-versions": {
             "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.4.0-evolve-v4.0-4.1.zip",
-            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.4.2-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.5.0-evolve-v4.0-4.1.zip"
         }
     },
     "cwLayoutD3TreeMap": {
@@ -330,6 +330,15 @@
         "wiki": "https://github.com/nevakee716/cwGantt/wiki",
         "evolve-versions": {
             "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Gantt/Gantt-v1.0.3-evolve-v4.2.zip"
+        }
+    },
+    "PivotTable": {
+        "name": "PivotTable",
+        "repository": "git+https://github.com/nevakee716/cwPivotTable.git",
+        "description": "Allow you to display objet in a Pivot Table",
+        "wiki": "https://github.com/nevakee716/cwPivotTable/wiki",
+        "evolve-versions": {
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v2.0.1-evolve-v4.2.zip"
         }
     }
 }
