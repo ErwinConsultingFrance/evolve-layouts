@@ -45,7 +45,7 @@
         "wiki": "https://github.com/nevakee716/cwNetwork/wiki",
         "evolve-versions": {
             "4.0": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v2.0.1-evolve-v4.0-4.1.zip",
-            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v5.0.2-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v5.1.2-evolve-v4.1-4.2.zip"
         }
     },
     "FilterByExternalAssociation": {
@@ -167,7 +167,7 @@
         "wiki": "https://github.com/nevakee716/hideElementIf/wiki",
         "evolve-versions": {
             "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.4.0-evolve-v4.0-4.1.zip",
-            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.4.1-evolve-v4.0-4.1.zip"
+            "4.0 - 4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/HideElementIf/HideElementIf-v1.5.0-evolve-v4.0-4.1.zip"
         }
     },
     "cwLayoutD3TreeMap": {
@@ -185,7 +185,7 @@
         "description": "Allow you to display DateProperty of your objects (and their associated objects) in a Timeline",
         "wiki": "https://github.com/nevakee716/Timeline/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Timeline/Timeline-v1.5.0-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Timeline/Timeline-v1.5.2-evolve-v4.0-4.2.zip"
         }
     },
     "cwLayoutMap": {
@@ -284,7 +284,7 @@
         "description": "Allow you to expand the popout",
         "wiki": "https://github.com/JGrndn/cwPopout/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.2.1-evolve-v4.2.zip"
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.2.2-evolve-v4.2.zip"
         }
     },
     "cwLayoutCollapsibleListBox": {
@@ -302,7 +302,8 @@
         "description": "This plug-in allows you to redirect users to different pages when they enter edit mode",
         "wiki": "https://github.com/JGrndn/RedirectEdit/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/RedirectEdit/RedirectEdit-v1.0.2-evolve-v4.0-4.2.zip"
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/RedirectEdit/RedirectEdit-v1.0.2-evolve-v4.0-4.2.zip",
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/RedirectEdit/RedirectEdit-v1.0.3-evolve-v4.0-4.2.zip"
         }
     },
     "AccessRightManager": {
@@ -321,6 +322,24 @@
         "wiki": "https://github.com/JGrndn/cwLayoutCustomQuery/wiki",
         "evolve-versions": {
             "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutCustomQuery/cwLayoutCustomQuery-v1.1.0-evolve-v4.2.zip"
+        }
+    },
+    "Gantt": {
+        "name": "Gantt",
+        "repository": "git+https://github.com/nevakee716/cwGantt.git",
+        "description": "Allow you to display objet in a Gantt",
+        "wiki": "https://github.com/nevakee716/cwGantt/wiki",
+        "evolve-versions": {
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Gantt/Gantt-v1.0.3-evolve-v4.2.zip"
+        }
+    },
+    "PivotTable": {
+        "name": "PivotTable",
+        "repository": "git+https://github.com/nevakee716/cwPivotTable.git",
+        "description": "Allow you to display objet in a Pivot Table",
+        "wiki": "https://github.com/nevakee716/cwPivotTable/wiki",
+        "evolve-versions": {
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v2.0.1-evolve-v4.2.zip"
         }
     }
 }

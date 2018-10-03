@@ -162,7 +162,7 @@
 ## RedirectEdit: 
 - This plug-in allows you to redirect users to different pages when they enter edit mode
 - https://github.com/JGrndn/RedirectEdit/wiki
-- Compatibility : Evolve 4.2
+- Compatibility : Evolve 4.2,4.0 - 4.2
 
 ## AccessRightManager: 
 - Allow you to manage the access right at the property level
@@ -172,5 +172,15 @@
 ## cwLayoutCustomQuery: 
 - Allow users to create their own filter and to display data using charts
 - https://github.com/JGrndn/cwLayoutCustomQuery/wiki
+- Compatibility : Evolve 4.2
+
+## Gantt: 
+- Allow you to display objet in a Gantt
+- https://github.com/nevakee716/cwGantt/wiki
+- Compatibility : Evolve 4.2
+
+## PivotTable: 
+- Allow you to display objet in a Pivot Table
+- https://github.com/nevakee716/cwPivotTable/wiki
 - Compatibility : Evolve 4.2
 
