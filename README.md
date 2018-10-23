@@ -184,3 +184,8 @@
 - https://github.com/nevakee716/cwPivotTable/wiki
 - Compatibility : Evolve 4.2
 
+## cwLayoutFilteredListBox: 
+- Allow you to display data according to another view configuration (in edit mode)
+- https://github.com/JGrndn/cwLayoutFilteredListBox/wiki
+- Compatibility : Evolve 4.0 - 4.2
+

@@ -341,5 +341,14 @@
         "evolve-versions": {
             "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v2.0.1-evolve-v4.2.zip"
         }
+    },
+    "cwLayoutFilteredListBox": {
+        "name": "cwLayoutFilteredListBox",
+        "repository": "https://github.com/JGrndn/cwLayoutFilteredListBox",
+        "description": "Allow you to display data according to another view configuration (in edit mode)",
+        "wiki": "https://github.com/JGrndn/cwLayoutFilteredListBox/wiki",
+        "evolve-versions": {
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutFilteredListBox/cwLayoutFilteredListBox-v1.0.0-evolve-v4.0-4.2.zip"
+        }
     }
 }
