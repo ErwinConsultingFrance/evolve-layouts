@@ -184,3 +184,8 @@
 - https://github.com/nevakee716/cwPivotTable/wiki
 - Compatibility : Evolve 4.2
 
+## Check Edit Model: 
+- Check if an object has the right number of associations, some unique property and can fill automatically some property
+- https://github.com/nevakee716/checkEditModel/wiki
+- Compatibility : Evolve 4.2
+
