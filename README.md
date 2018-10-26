@@ -194,4 +194,3 @@
 - https://github.com/JGrndn/cwLayoutFilteredListBox/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
-

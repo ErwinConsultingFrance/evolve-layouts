@@ -348,7 +348,7 @@
         "description": "Check if an object has the right number of associations, some unique property and can fill automatically some property",
         "wiki": "https://github.com/nevakee716/checkEditModel/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Check Edit Model/Check Edit Model-v1.0.0-evolve-v4.2.zip"
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Check Edit Model/Check Edit Model-v1.0.1-evolve-v4.2.zip"
         }
     },
     "cwLayoutFilteredListBox": {
