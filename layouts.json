@@ -147,7 +147,7 @@
         "description": "Allow you switch order of column, number of object/pages, add a button unset all filters, add a title",
         "wiki": "https://github.com/nevakee716/TableComplexeEnhanced/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/TableComplexeEnhance/TableComplexeEnhance-v1.4.0-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/TableComplexeEnhance/TableComplexeEnhance-v1.4.1-evolve-v4.0-4.2.zip"
         }
     },
     "DiagramObjectLinkOnEvolve": {
@@ -340,6 +340,15 @@
         "wiki": "https://github.com/nevakee716/cwPivotTable/wiki",
         "evolve-versions": {
             "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/PivotTable/PivotTable-v2.0.1-evolve-v4.2.zip"
+        }
+    },
+    "Check Edit Model": {
+        "name": "Check Edit Model",
+        "repository": "git+https://github.com/nevakee716/checkEditModel.git",
+        "description": "Check if an object has the right number of associations, some unique property and can fill automatically some property",
+        "wiki": "https://github.com/nevakee716/checkEditModel/wiki",
+        "evolve-versions": {
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Check Edit Model/Check Edit Model-v1.0.1-evolve-v4.2.zip"
         }
     },
     "cwLayoutFilteredListBox": {
