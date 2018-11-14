@@ -190,7 +190,7 @@
 - Compatibility : Evolve 4.2
 
 ## cwLayoutFilteredListBox: 
-- Allow you to display data according to another view configuration (in edit mode)
+- Allow you to filter data when in edit mode, according another view set up
 - https://github.com/JGrndn/cwLayoutFilteredListBox/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
