@@ -359,5 +359,14 @@
         "evolve-versions": {
             "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutFilteredListBox/cwLayoutFilteredListBox-v1.0.0-evolve-v4.0-4.2.zip"
         }
+    },
+    "cwLayoutSearch": {
+        "name": "cwLayoutSearch",
+        "repository": "git+https://github.com/JGrndn/Search.git",
+        "description": "Seach your data, using multiple options",
+        "wiki": "https://github.com/JGrndn/Search/wiki",
+        "evolve-versions": {
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v1.0.0-evolve-v4.0-4.2.zip"
+        }
     }
 }

@@ -194,3 +194,8 @@
 - https://github.com/JGrndn/cwLayoutFilteredListBox/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
+## cwLayoutSearch: 
+- Seach your data, using multiple options
+- https://github.com/JGrndn/Search/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
