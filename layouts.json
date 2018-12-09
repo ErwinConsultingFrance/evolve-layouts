@@ -45,7 +45,7 @@
         "wiki": "https://github.com/nevakee716/cwNetwork/wiki",
         "evolve-versions": {
             "4.0": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v2.0.1-evolve-v4.0-4.1.zip",
-            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v6.0.1-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Network/Network-v6.1.0-evolve-v4.1-4.2.zip"
         }
     },
     "FilterByExternalAssociation": {
@@ -221,7 +221,7 @@
         "description": "Allow you to Graph2D",
         "wiki": "https://github.com/nevakee716/Graph2D/wiki",
         "evolve-versions": {
-            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Graph2D/Graph2D-v1.3.0-evolve-v4.1-4.2.zip"
+            "4.1 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Graph2D/Graph2D-v1.3.1-evolve-v4.1-4.2.zip"
         }
     },
     "cwLayoutConfigEditor": {
@@ -348,7 +348,7 @@
         "description": "Check if an object has the right number of associations, some unique property and can fill automatically some property",
         "wiki": "https://github.com/nevakee716/checkEditModel/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Check Edit Model/Check Edit Model-v1.0.1-evolve-v4.2.zip"
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Check Edit Model/Check Edit Model-v1.0.2-evolve-v4.2.zip"
         }
     },
     "cwLayoutFilteredListBox": {
@@ -367,6 +367,15 @@
         "wiki": "https://github.com/JGrndn/Search/wiki",
         "evolve-versions": {
             "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v1.0.1-evolve-v4.0-4.2.zip"
+        }
+    },
+    "Utils": {
+        "name": "Utils",
+        "repository": "git+https://github.com/nevakee716/Utils.git",
+        "description": "Custom Function Used in Many Library",
+        "wiki": "https://github.com/nevakee716/Utils/wiki",
+        "evolve-versions": {
+            "4.1 - 4.5": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Utils/Utils-v1.0.0-evolve-v4.1-4.5.zip"
         }
     }
 }
