@@ -204,3 +204,8 @@
 - https://github.com/nevakee716/Utils/wiki
 - Compatibility : Evolve 4.1 - 4.5
 
+## cwOperationBox: 
+- Display Operation object type using a specific layout
+- https://github.com/JGrndn/cwOperationBox/wiki
+- Compatibility : Evolve 4.1
+

@@ -377,5 +377,14 @@
         "evolve-versions": {
             "4.1 - 4.5": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Utils/Utils-v1.1.0-evolve-v4.1-4.5.zip"
         }
+    },
+    "cwOperationBox": {
+        "name": "cwOperationBox",
+        "repository": "https://github.com/JGrndn/cwOperationBox",
+        "description": "Display Operation object type using a specific layout",
+        "wiki": "https://github.com/JGrndn/cwOperationBox/wiki",
+        "evolve-versions": {
+            "4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwOperationBox/cwOperationBox-v1.0.0-evolve-v4.1.zip"
+        }
     }
 }
