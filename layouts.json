@@ -266,7 +266,7 @@
         "description": "Allow you make a more complex beautiful custom display string (popout, split link...)",
         "wiki": "https://github.com/nevakee716/customDisplayStringEnhanced/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/customDisplayStringEnhanced/customDisplayStringEnhanced-v1.1.2-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/customDisplayStringEnhanced/customDisplayStringEnhanced-v1.1.3-evolve-v4.0-4.2.zip"
         }
     },
     "ImagePropertyTable": {
@@ -284,7 +284,7 @@
         "description": "Allow you to expand the popout",
         "wiki": "https://github.com/JGrndn/cwPopout/wiki",
         "evolve-versions": {
-            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.2.2-evolve-v4.2.zip"
+            "4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwPopout/cwPopout-v1.2.4-evolve-v4.2.zip"
         }
     },
     "cwLayoutCollapsibleListBox": {
@@ -366,7 +366,7 @@
         "description": "Seach your data, using multiple options",
         "wiki": "https://github.com/JGrndn/Search/wiki",
         "evolve-versions": {
-            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v1.0.2-evolve-v4.0-4.2.zip"
+            "4.0 - 4.2": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwLayoutSearch/cwLayoutSearch-v1.1.2-evolve-v4.0-4.2.zip"
         }
     },
     "Utils": {
@@ -376,6 +376,15 @@
         "wiki": "https://github.com/nevakee716/Utils/wiki",
         "evolve-versions": {
             "4.1 - 4.5": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/Utils/Utils-v1.1.0-evolve-v4.1-4.5.zip"
+        }
+    },
+    "cwOperationBox": {
+        "name": "cwOperationBox",
+        "repository": "https://github.com/JGrndn/cwOperationBox",
+        "description": "Display Operation object type using a specific layout",
+        "wiki": "https://github.com/JGrndn/cwOperationBox/wiki",
+        "evolve-versions": {
+            "4.1": "https://github.com/ErwinConsultingFrance/evolve-layouts/raw/master/dist/cwOperationBox/cwOperationBox-v1.0.0-evolve-v4.1.zip"
         }
     }
 }
