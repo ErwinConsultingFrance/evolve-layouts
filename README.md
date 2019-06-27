@@ -209,3 +209,8 @@
 - https://github.com/JGrndn/cwOperationBox/wiki
 - Compatibility : Evolve 4.1
 
+## Duplicate: 
+- Add a button to duplicate object
+- https://github.com/nevakee716/cwDuplicate/wiki
+- Compatibility : Evolve 4.0 - 4.2
+
