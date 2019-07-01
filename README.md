@@ -132,7 +132,7 @@
 ## cwAmMap: 
 - Allow you to display maps
 - https://github.com/JGrndn/cwAmMap/wiki
-- Compatibility : Evolve 4.0 - 4.2
+- Compatibility : Evolve 4.0 - 4.2,4.0 - 4.1
 
 ## Erwin_Theme: 
 - Use the Erwin colors
