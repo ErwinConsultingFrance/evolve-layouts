@@ -214,3 +214,8 @@
 - https://github.com/nevakee716/cwDuplicate/wiki
 - Compatibility : Evolve 4.0 - 4.2
 
+## Custom Layout Configuration: 
+- Allow you to configure specifics directly in evolve
+- https://github.com/nevakee716/cwCoffeeMaker/wiki
+- Compatibility : Evolve 4.2 - 4.x
+
