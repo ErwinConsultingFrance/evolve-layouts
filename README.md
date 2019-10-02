@@ -216,6 +216,6 @@
 
 ## Custom Layout Configuration: 
 - Allow you to configure specifics directly in evolve
-- https://github.com/nevakee716/cwCoffeeMaker/wiki
+- https://github.com/nevakee716/CoffeeMaker/wiki
 - Compatibility : Evolve 4.2 - 4.x
 
