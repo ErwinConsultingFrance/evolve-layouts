@@ -219,3 +219,8 @@
 - https://github.com/nevakee716/CoffeeMaker/wiki
 - Compatibility : Evolve 4.2 - 4.x
 
+## cwLayoutCompare: 
+- Allow you to compare your objects with differents version of it
+- https://github.com/nevakee716/cwLayoutCompare/wiki
+- Compatibility : Evolve 4.2-4.6
+
