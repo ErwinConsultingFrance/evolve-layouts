@@ -224,3 +224,8 @@
 - https://github.com/nevakee716/cwLayoutCompare/wiki
 - Compatibility : Evolve 4.2-4.6
 
+## Html5DiagramFilter: 
+- Allow you to display region depending on filtered associated objects
+- https://github.com/nevakee716/cwHtml5DiagramFilter/wiki
+- Compatibility : Evolve 4.2 - 4.5
+
